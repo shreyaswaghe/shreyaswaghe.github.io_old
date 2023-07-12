@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Shreyas Waghe</title>
+    <link>http://example.org/about/</link>
+    <description>Recent content in About on Shreyas Waghe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Relevant Courses</title>
+      <link>http://example.org/about/classes/</link>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/classes/</guid>
+      <description>-&amp;gt; advanced undergraduate: typically end-of-career undergraduate students and early-career graduate students
+-&amp;gt; graduate: intended for graduate students, undergraduate students need special permission to enroll
+-&amp;gt; Academic &amp;lsquo;mentors&amp;rsquo; named alongside their courses.
+Fall 2023 (Semester V):
+Mathematical Cell Biology - Math 690STB (graduate - debut cohort!) - Dr Andreas Buttenschoen. Non-Linear Dynamics and Chaos Theory - Math 532H (advanced undergraduate, honors). Algorithmic Fairness and Game Theory - CS 515 (advanced undergraduate) - Dr Yair Zick.</description>
+    </item>
+    
+    <item>
+      <title>Where I&#39;ve been</title>
+      <link>http://example.org/about/whereivebeen/</link>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/whereivebeen/</guid>
+      <description>(and where you might know me from):
+UMass Amherst - a bunch of places here Brown University&amp;rsquo;s Summer Programme - NSF-funded CS REU 2023! Brown Visual Computing Group Smt. Sulochanadevi Singhania School / Hiranandani Foundation School, Thane, India </description>
+    </item>
+    
+  </channel>
+</rss>
